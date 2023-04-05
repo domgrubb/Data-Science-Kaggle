@@ -1,0 +1,1 @@
+Uses only the data available on Kaggle's Titanic competition, first pass only using random forest classifier without standardising any numerical values.
